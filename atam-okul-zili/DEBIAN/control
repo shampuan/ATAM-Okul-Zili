@@ -1,0 +1,10 @@
+Package: atam-okul-zili
+Version: 1.0
+Section: education
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt5, ttf-mscorefonts-installer
+Maintainer: A. Serhat KILIÇOĞLU <github.com/shampuan>
+Description: Atam Okul Zili
+ Okullar için hazırlanmış sade ve işlevsel bir zil programıdır.
+
